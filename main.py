@@ -1,13 +1,8 @@
 from tkinter import *
-
 from tkinter.messagebox import showerror
-
 import random
-
 import driver as D
-
 import administrator as A
-
 import customer as C 
 
 
